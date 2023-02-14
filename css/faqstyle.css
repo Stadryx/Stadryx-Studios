@@ -1,0 +1,9 @@
+body {
+	background-color: rgb(45, 45, 45);
+}
+
+header h1{
+	color: white;
+	background-color: black;
+	padding-left: 100px;
+}
